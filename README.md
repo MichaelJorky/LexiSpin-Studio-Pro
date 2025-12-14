@@ -40,7 +40,9 @@ Aplikasi terdiri dari:
 * Tombol Generate, Copy, Save, Clear
 * Informasi jumlah kata dan kata yang diproses
 
-*(Lihat screenshot di folder `/assets` atau pada halaman README ini)*
+<div align="center">
+  <img src="./assets/LexiSpin Studio Pro.PNG" alt="LexiSpin Studio Pro" width="470" height="307">
+</div>
 
 ---
 
